@@ -1,0 +1,14 @@
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\bin\Debug\netcoreapp2.1\PhoneBookWebApi.deps.json
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\bin\Debug\netcoreapp2.1\PhoneBookWebApi.runtimeconfig.json
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\bin\Debug\netcoreapp2.1\PhoneBookWebApi.runtimeconfig.dev.json
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\bin\Debug\netcoreapp2.1\PhoneBookWebApi.dll
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\obj\Debug\netcoreapp2.1\PhoneBookWebApi.csprojAssemblyReference.cache
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\obj\Debug\netcoreapp2.1\PhoneBookWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\obj\Debug\netcoreapp2.1\PhoneBookWebApi.RazorAssemblyInfo.cache
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\obj\Debug\netcoreapp2.1\PhoneBookWebApi.RazorAssemblyInfo.cs
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\obj\Debug\netcoreapp2.1\PhoneBookWebApi.AssemblyInfoInputs.cache
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\obj\Debug\netcoreapp2.1\PhoneBookWebApi.AssemblyInfo.cs
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\obj\Debug\netcoreapp2.1\PhoneBookWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\bin\Debug\netcoreapp2.1\PhoneBookWebApi.pdb
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\obj\Debug\netcoreapp2.1\PhoneBookWebApi.dll
+C:\Users\Nina\source\webapi\PhoneBookWebApi\PhoneBookWebApi\obj\Debug\netcoreapp2.1\PhoneBookWebApi.pdb
